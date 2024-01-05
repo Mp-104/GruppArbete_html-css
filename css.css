@@ -1,0 +1,36 @@
+img {
+    margin-right: 6pc;
+    
+}
+
+img {
+    margin-left: 6pc;
+}
+
+h2 {
+    margin-left: 31pc;
+}
+
+footer {
+    margin-left: 70pc;
+}
+
+.produkter {
+    margin-left: 0pc;
+}
+
+#startsida {
+    background-color:crimson;
+}
+
+#kontaktsida {
+    background-color: aquamarine;
+}
+
+#produktsida {
+    background-color: orange;
+}
+
+#omoss {
+    background-color: azure;
+}
